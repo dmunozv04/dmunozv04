@@ -3,10 +3,10 @@
 <!--
 - ⚡ Fun fact: Hi there, you shouldn't be seeing this
 -->
-- 🔭 I’m currently working on iSponsorblockTV
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python projects
-- 💬 Ask me about sponsorblock or instagram stuff
+- 🔭 I’m currently working part-time @ficodes as a full-stack developer / DevOps Engineer
+- 🏝️ On my spare time, I work on iSponsorBlockTV
+- 🌱 I’m currently learning Python, Kubernetes, Helm
+- 💬 Ask me about sponsorblock
 - 📫 How to reach me: Github issues
 - 😄 Pronouns: He/Him
 
